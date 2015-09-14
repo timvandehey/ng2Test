@@ -18,7 +18,7 @@ class App {
   name:string;
 
   constructor() {
-    this.greeting = 'Welcome';
+    this.greeting = 'Hello';
     this.name = 'codejets';
   }
 
